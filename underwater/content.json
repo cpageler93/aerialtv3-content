@@ -1,6 +1,7 @@
 {
     "info": {
         "product_identifier": "de.pageler.christoph.aerialtv2.underwater",
+        "is_pro_content": false,
         "titles": {
             "en": "Underwater",
             "de": "Unterwasser"

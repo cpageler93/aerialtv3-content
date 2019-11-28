@@ -1,6 +1,7 @@
 {
     "info": {
         "product_identifier": "de.pageler.christoph.aerialtv2.urban",
+        "is_pro_content": true,
         "titles": {
             "en": "Urban",
             "de": "Urban"

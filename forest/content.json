@@ -1,6 +1,7 @@
 {
     "info": {
         "product_identifier": "de.pageler.christoph.aerialtv2.forest",
+        "is_pro_content": true,
         "titles": {
             "en": "Forest",
             "de": "Wald"
