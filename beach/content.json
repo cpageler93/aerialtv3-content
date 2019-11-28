@@ -9,7 +9,7 @@
     "videos": [
         {
             "title": "Waves rushing and splashing to the shore",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/beach/beach-1-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/beach/beach-1-hd.mp4",
             "duration": 21,
             "fps": 25,
             "resolution": "fullhd",
@@ -17,7 +17,7 @@
         },
         {
             "title": "A rocky coast",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/beach/beach-2-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/beach/beach-2-hd.mp4",
             "duration": 37,
             "fps": 29,
             "resolution": "fullhd",
@@ -25,7 +25,7 @@
         },
         {
             "title": "Aerial view of a beach",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/beach/beach-3-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/beach/beach-3-hd.mp4",
             "duration": 35,
             "fps": 29,
             "resolution": "fullhd",
@@ -33,7 +33,7 @@
         },
         {
             "title": "A beautiful beach with turquoise water",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/beach/beach-4-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/beach/beach-4-hd.mp4",
             "duration": 21,
             "fps": 59,
             "resolution": "fullhd",
@@ -41,7 +41,7 @@
         },
         {
             "title": "Scenic view of a beach",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/beach/beach-5-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/beach/beach-5-hd.mp4",
             "duration": 18,
             "fps": 25,
             "resolution": "fullhd",
@@ -49,7 +49,7 @@
         },
         {
             "title": "Aerial view of beautiful resort",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/beach/beach-6-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/beach/beach-6-hd.mp4",
             "duration": 38,
             "fps": 29,
             "resolution": "fullhd",
@@ -57,7 +57,7 @@
         },
         {
             "title": "Aerial view of beautiful resort",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/beach/beach-7-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/beach/beach-7-hd.mp4",
             "duration": 86,
             "fps": 29,
             "resolution": "fullhd",
@@ -65,7 +65,7 @@
         },
         {
             "title": "Beautiful and clean beach",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/beach/beach-8-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/beach/beach-8-hd.mp4",
             "duration": 37,
             "fps": 23,
             "resolution": "fullhd",

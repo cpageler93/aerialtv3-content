@@ -9,7 +9,7 @@
     "videos": [
         {
             "title": "Variety of fishes",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/underwater/underwater-1-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/underwater/underwater-1-hd.mp4",
             "duration": 24,
             "fps": 23,
             "resolution": "fullhd",
@@ -17,7 +17,7 @@
         },
         {
             "title": "Variety of fishes",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/underwater/underwater-2-sd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/underwater/underwater-2-sd.mp4",
             "duration": 104,
             "fps": 29,
             "resolution": "hd",
@@ -25,7 +25,7 @@
         },
         {
             "title": "Exotic fishes",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/underwater/underwater-3-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/underwater/underwater-3-hd.mp4",
             "duration": 17,
             "fps": 29,
             "resolution": "fullhd",
@@ -33,7 +33,7 @@
         },
         {
             "title": "A turquoise in the deep sea",
-            "url": "https://aerialtv.fra1.cdn.digitaloceanspaces.com/underwater/underwater-4-hd.mp4",
+            "url": "https://raw.githubusercontent.com/cpageler93/aerialtv3-content/master/underwater/underwater-4-hd.mp4",
             "duration": 152,
             "fps": 29,
             "resolution": "fullhd",
